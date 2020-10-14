@@ -20,7 +20,7 @@ public struct EZLoadingActivity {
         public static var FontName = "HelveticaNeue-Light"
         // Other possible stuff: ✓ ✓ ✔︎ ✕ ✖︎ ✘
         public static var SuccessIcon = "✔︎"
-        public static var FailIcon = "✘"
+        public static var FailIcon = "⚠️"
         public static var SuccessText = "Success"
         public static var FailText = "Something went wrong, try again"
         public static var SuccessColor = UIColor(red: 68/255, green: 118/255, blue: 4/255, alpha: 1.0)
